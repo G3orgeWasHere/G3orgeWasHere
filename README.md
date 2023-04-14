@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @G3orgeWasHere
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning how to coding
-- 💞️ I’m looking to collaborate on Discord
+- 🌱 I’m currently learning how to code
 - 📫 How to reach me S1mple#8677
 
 <!---
