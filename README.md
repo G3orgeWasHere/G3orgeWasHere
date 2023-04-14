@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @G3orgeWasHere
+- 👋 Hi, I’m George
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning how to code
 - 📫 How to reach me S1mple#8677
